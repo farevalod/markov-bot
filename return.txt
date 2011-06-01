@@ -1,0 +1,13 @@
+Request Token:
+    - oauth_token        = OCeF1aSiNpRuVJNPqxcMNaItptKXhDb8sv6W90XzC4
+	    - oauth_token_secret = YkotipwrVOa0IUVKT6YMmroTBV2B3peBu5x0Eni1KM
+
+		OCeF1aSiNpRuVJNPqxcMNaItptKXhDb8sv6W90XzC4
+		Me autorizaste? (s/n) s
+		Cual es el PIN? 3346640
+		Access Token:
+		    - oauth_token        = 308784827-xwyYK67SclRMTSXAHQEAd0q5x6KxaHIlw3Hb1MbN
+			    - oauth_token_secret = 3OX05SoxXUcg3Yycd9puqGzV2tNvol3TxkgM7aJmg
+
+				Ahora puedes acceder a la informacion privada con los tokens de arriba.
+
