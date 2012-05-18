@@ -1,5 +1,5 @@
-botlp:  Procesamiento de lenguaje y generación automática de mensajes
-        utilizando expresiones regulares y cadenas de Markov.
+markov-bot:  Procesamiento de lenguaje y generación automática de mensajes
+utilizando expresiones regulares y cadenas de Markov.
 
 CADENAS DE MARKOV
 Sistema matematico que se transforma de un estado al otro,
@@ -22,4 +22,3 @@ Nota:   Para buen funcionamiento del algoritmo de Markov, es necesario
         descargados, la actualización puede tomar hasta 30 segundos.
 
 Francisco Arevalo
-2660557-1
